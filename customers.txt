@@ -1,0 +1,16 @@
+Clinton, Hillary
+B
+1770
+19000
+Biden, Joe
+A
+995
+900
+Trump, Donald
+A
+1100
+10005
+Obama, Barack
+B
+2050
+21000
